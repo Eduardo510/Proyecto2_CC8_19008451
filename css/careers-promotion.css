@@ -32,10 +32,6 @@
     background-color:#46a5e5;
 }
 
-.normal-c .carousel-item img {
-    /*opacity:0.7;
-    height: 363px !important;*/
-}
 
 .normal-c .carousel-item .carousel-caption {
     text-align:left;
@@ -54,9 +50,7 @@
     padding: 15px 0!important;
     justify-content: center;
 }
-.carousel_career_promotion {
-    /*height: 363px !important;*/
-}
+
 
 .normal-c .carousel-item span {
     width:8px!important;
@@ -204,10 +198,6 @@
 	background-color: lightblue;
     }
 
-    .normal-c .card-image {
-	/*edgar_ges:Comento esta sección para que no delimite un tamaño fijo.*/
-	
-    }
 
     .normal-c .carousel-caption h5 {
         font-weight: bold;
@@ -269,10 +259,6 @@
     .normal-c .carousel-caption p {
         font-size: 20px;
     }
-    .btn-promocion{
-	/*padding: 1.5% !important;*/
-    }
-
     .normal-c .carousel-item .carousel-caption {
         margin-left: 112px;
     }

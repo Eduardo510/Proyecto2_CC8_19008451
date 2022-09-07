@@ -3309,7 +3309,7 @@ body.mac .dropcap {
 }
 
 .promotional-video-ug .flat-video-fancybox .overlay {
-	background-image: url('../images/video-back.png')!important;
+	background-image: url('../images/video-back.webp')!important;
 	background-repeat: no-repeat;
 	background-size: contain;
 	background-color: transparent;
@@ -3324,7 +3324,7 @@ body.mac .dropcap {
     /*transition: all .2s;*/
 }
 .acerca-de-ug .promotional-video-ug .flat-video-fancybox .overlay {
-	background-image: url('../images/video-acercade.jpg') !important;
+	background-image: url('../images/video-acercade.webp') !important;
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-color: #212529;
@@ -3420,7 +3420,7 @@ body.mac .dropcap {
   /* display: block;*/
     -moz-box-sizing: border-box;
     box-sizing: border-box;
-    background: url(../images/logo-header-fff.png) no-repeat;
+    background: url(../images/logo-header-fff.webp) no-repeat;
     width: 180px;
     height: 75px;
     padding-left: 180px;
@@ -3532,14 +3532,14 @@ body.mac .dropcap {
 }
 .container-title-post-son.acerca-del-programa,
 .background-triangle {
-    background-image: url(../images/triangle.jpg);
+    background-image: url(../images/triangle.webp);
     background-repeat: no-repeat;
     background-size: cover;
     background-color: #1a1a1a;
 }
 .container-title-post-son.campo-laboral,
 .background-triangle2 {
-    background-image: url(../images/triangle2.jpg);
+    background-image: url(../images/triangle2.webp);
     background-repeat: no-repeat;
     background-size: cover;
     background-color: #1a1a1a;
@@ -3747,7 +3747,7 @@ body.mac .dropcap {
 	color: #333;
 }
 .video-edx .flat-video-fancybox .overlay{
-	background-image: url(../images/edx-logo.png) !important;
+	background-image: url(../images/edx-logo.webp) !important;
 	background-size: inherit;
 }
 .page-entity .post-content ul {

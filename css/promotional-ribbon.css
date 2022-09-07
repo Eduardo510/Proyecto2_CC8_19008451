@@ -185,7 +185,7 @@
 
 @media only screen and (min-width : 1200px) {
     .promotional-ribbon {
-        background-image: url('../images/ribbon-l.jpg');
+        background-image: url('../images/ribbon-l.webp');
     }
 
     .title-ribbon p, .title-ribbon strong {

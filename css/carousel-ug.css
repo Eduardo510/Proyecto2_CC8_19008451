@@ -398,9 +398,6 @@
   z-index: 10;
 }
 
-.card-image .video-background iframe {
-  /*pointer-events: none;*/
-}
 
 .link-caption-image {
   z-index: 11;
@@ -469,11 +466,6 @@
     display: block;
   }
 
-  .carousel-op .carousel-caption a {
-    /*margin: 15px 0px;
-    padding: 0 15px;
-    margin-bottom: 30px;*/
-  }
 
   .sound-carousel, .sound-carousel:hover,
   .sound-carousel:active, .sound-carousel:focus {

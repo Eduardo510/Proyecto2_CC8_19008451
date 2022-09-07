@@ -63,12 +63,7 @@ nav.faculty .container nav.career .container {
     align-items: center;
 }
 
-/*.fix-faculty {
-    position: fixed!important;
-    top: 80px;
-    z-index: 9999;
-    width: 100%;
-}*/
+
 
 .affix {
     top: 80px;
@@ -109,10 +104,7 @@ nav.faculty .container nav.career .container {
     font-style: normal;
 }
 
-.career-name {
-    /*border-left: 1px solid rgba(255,255,255,.15);*/
-    
-}
+
 
 .affix .faculty-ab, .affix .career-ab {
     display: flex;
@@ -414,9 +406,6 @@ nav.faculty .container nav.career .container {
     background: blue !important;
 }
 
-#secundary_menu .menu-ges{
-    /*background:#4372b4;*/
-}
 #secundary_menu .menu-ges a{
     color:#e4b22e !important;
     font-weight: bold;
@@ -1048,10 +1037,7 @@ nav.faculty .container nav.career .container {
 }
 
 @media only screen and (min-width : 1200px) {
-    .faculty .container, .career .container {
-        /*padding-left: 0;
-        padding-right: 0;*/
-    }
+
     header .header-wrap .nav-wrap nav.mainnav .menu li.menu-item.pagar-mi-u{
         display: none;
     }
@@ -1064,10 +1050,7 @@ nav.faculty .container nav.career .container {
 }
 
 @media only screen and (min-width : 1440px) {
-    .faculty .container, .career .container {
-        /*padding-left: 0;
-        padding-right: 0;*/
-    }
+
     header .header-wrap .nav-wrap nav.mainnav .menu li.menu-item.pagar-mi-u{
         display: none;
     }
