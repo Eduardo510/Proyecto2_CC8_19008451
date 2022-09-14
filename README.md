@@ -9,5 +9,5 @@ Instrucciones Para Ejecutar Pruebas.  <br>
   1. Desanclar ventana de Devtools.   <br>
   2. Iniciar Prubea.                  <br>
   3. Poner en primer plano la pagina. <br>
-  4. Esperar de 3 a 5 segundos        <br>
-  5. Regresar a Lighthouse            <br>
+  4. Esperar de 3 a 5 segundos.       <br>
+  5. Regresar a Lighthouse.           <br>
